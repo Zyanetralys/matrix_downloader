@@ -4,7 +4,7 @@ Aplicación de escritorio 100% local (Python + Tkinter) para descargar vídeos o
 audio de YouTube, tanto de URLs sueltas como de playlists completas con
 selección individual de elementos.
 
-## ⚠️ Nota legal (importante para la memoria del proyecto)
+## ⚠️ Nota legal
 
 Esta herramienta **no aloja ni distribuye contenido**: simplemente automatiza
 `yt-dlp` en tu propio equipo. Úsala solo para descargar vídeos de los que
