@@ -2,16 +2,14 @@
 
 Aplicación de escritorio 100% local (Python + Tkinter) para descargar vídeos o
 audio de YouTube, tanto de URLs sueltas como de playlists completas con
-selección individual de elementos. Interfaz con estética Matrix / cyberpunk /
-japonesa. Proyecto pensado para el módulo de Aplicaciones Multiplataforma (FP DAM).
+selección individual de elementos.
 
-## ⚠️ Nota legal (importante para la memoria del proyecto)
+## ⚠️ Nota legal (importante)
 
 Esta herramienta **no aloja ni distribuye contenido**: simplemente automatiza
 `yt-dlp` en tu propio equipo. Úsala solo para descargar vídeos de los que
-tengas los derechos: contenido propio, dominio público, o licencias
-Creative Commons / royalty-free. El uso para saltarse el copyright de
-contenido protegido queda fuera del propósito de este proyecto académico.
+tengas los derechos, el uso para saltarse el copyright de
+contenido protegido queda fuera del propósito de este proyecto.
 
 ## Qué necesitas antes de empezar
 
@@ -23,7 +21,7 @@ Para que la app funcione hacen falta **tres cosas** en tu ordenador:
    fallarán o saldrán incompletas.
 3. **pip** (el gestor de paquetes de Python, viene incluido con Python).
 
-Tkinter (la librería de la interfaz gráfica) también es necesaria, pero en
+**Tkinter** (la librería de la interfaz gráfica) también es necesaria, pero en
 Windows y macOS viene ya incluida con Python. En Linux a veces hay que
 instalarla aparte (se indica más abajo).
 
@@ -32,7 +30,7 @@ Sigue solo la sección de tu sistema.
 
 ---
 
-## 🪟 WINDOWS — Paso a paso desde cero
+## 🪟 WINDOWS
 
 ### 1. Instalar Python
 
